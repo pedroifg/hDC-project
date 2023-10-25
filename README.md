@@ -1,7 +1,7 @@
 ## Projeto hDC Host
 
 - Sobre o exercício:
-  - Criei este projeto que replica o front-end do site hDC Host, tendo as informações que o produto oferece, planos/preços, input para saber qual o domínio o usuário quer utilizar e SAC. Neste projeto foi utilizado os padrões de responsividade de telas (celular, tablet e desktop).
+  - Este projeto é uma replica do front-end do site hDC Host, tendo as informações que o produto oferece, planos/preços, input para saber qual o domínio o usuário quer utilizar e SAC. Neste projeto foi utilizado os padrões de responsividade de telas (celular, tablet e desktop).
 
 - Tecnologias utilizadas: <br>
   <ul>
